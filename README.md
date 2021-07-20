@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Raoni Olivera Quevedo
 - 👀 I’m interested in work as a front end developer
 - 🌱 I’m currently learning  js, ts, react
-- 📫 How to reach me [gmail] jarezn.zn@gmail.com
+- 📫 How to reach me jarezn.zn@gmail.com
