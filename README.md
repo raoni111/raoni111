@@ -1,5 +1,5 @@
 <h2>Hola,Meu nome e Raoni Olivera Quevedo e tenho 17 anos</h1>
-<p>E sou estudante e apaixonado por programação e adoro codar</p>
+<p>E sou estudante e apaixonado por programação</p>
 <h3>Tecnologias</h3>
 <div  text-align="centart" style="width='100%'">
   <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
