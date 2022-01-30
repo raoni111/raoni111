@@ -1,4 +1,4 @@
-<h2>Hola,Meu nome e Raoni Olivera Quevedo e tenho 17 anos</h1>
+<h2>Ola, Meu nome e Raoni Olivera Quevedo e tenho 17 anos</h1>
 <p>E sou estudante e apaixonado por programação</p>
 <h2>-- Tecnologias</h2>
 <div  text-align="centart" style="width='100%'">
