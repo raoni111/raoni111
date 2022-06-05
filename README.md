@@ -1,6 +1,6 @@
 <h2>Ola, Meu nome e Raoni Olivera Quevedo e tenho 18 anos</h2>
 <h3>E sou estudante e apaixonado por programação</h3>
-<h2>-- Tecnologias</h2>
+<h2>Tecnologias</h2>
 <div  text-align="centart" style="width='100%'">
   <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
   <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
@@ -11,3 +11,12 @@
 </div>
 <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoni111&langs_count=5)](https://github.com/raoni111/RaoniOliveira/edit/main/README.mdl" />
 <img width="434px" src="https://github-readme-stats.vercel.app/api?username=raoni111&hide=contribs,prs" />
+<h2>Contato</h2>
+<ul>
+  <li>
+    email: raonioliveiraquevedo@gmail.com
+  </li>
+  <li>
+    linkedin: https://www.linkedin.com/in/raoni-oliveira-3719871b3 
+  </li>
+</ul>
