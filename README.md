@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
   <img src="https://img.shields.io/badge/SCSS-red?style=for-the-badge&logo=sass&logoColor=white&labelColor=red" />
   <img src="https://img.shields.io/badge/typescript-5188FE?style=for-the-badge&logo=typescript&logoColor=white&labelColor=5188FE" />
+  <img src="https://img.shields.io/badge/electron-5188FE?style=for-the-badge&logo=electron&logoColor=white&labelColor=5188FE" />
 </div>
 <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoni111&langs_count=5)](https://github.com/raoni111/RaoniOliveira/edit/main/README.mdl" />
 <img width="434px" src="https://github-readme-stats.vercel.app/api?username=raoni111&hide=contribs,prs" />
