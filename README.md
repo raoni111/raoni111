@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello, my name is Raoni Olivera Quevedo, I'm a student and passionate about programming, I'm 18 years old and I live in the countryside of São Paulo
+<br>Hello, my name is Raoni Olivera Quevedo, I'm a student and passionate about programming, I'm 19 years old and I live in the countryside of São Paulo
 
 
 ## 🌐 Socials:
